@@ -1,4 +1,4 @@
-# rand_img_shower
+# Random_image_shower
 
 A new Flutter project.
 
